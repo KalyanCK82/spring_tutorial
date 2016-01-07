@@ -1,5 +1,9 @@
 package com.sample.bean;
 
+/**
+* This is sample class.
+*/
+
 public class Hello {
 
 	private String message;
